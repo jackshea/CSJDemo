@@ -284,7 +284,7 @@ public sealed class Example : MonoBehaviour
         }
 
         string iosSlotID = "900546826";
-        string AndroidSlotID = "901121365";
+        string AndroidSlotID = "952173768";
         // 横屏
         if (this.getScreenOrientationConfig() == 1)
         {
